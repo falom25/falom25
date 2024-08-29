@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm [Falom] 👋🏽🌸!
 
-<!--
-**falom25/falom25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently completed a QA Engineer bootcamp at TripleTen, where I developed skills in:
 
-Here are some ideas to get you started:
+- Analyzing requirements and designs
+- Developing test cases and bug reports in Jira
+- Manual and automated testing
+- API testing with Postman
+- Web and mobile testing with Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in medicine has shaped my analytical approach and commitment to uncovering root causes, which I now apply in Quality Assurance to ensure optimal solutions and software reliability.
+
+## Skills
+
+- Manual and UI Testing
+- Figma
+- HTML
+- Postman
+- PostgreSQL
+- JSON
+- Android Studio
+- Selenium WebDriver
+- Python
+- PyCharm
+- Git/GitHub
+- JIRA
+
+## Currently
+
+- Strengthening my knowledge in QA
+- Continuously expanding my expertise to contribute to innovative projects where precision and quality are key
