@@ -25,4 +25,6 @@ My background in medicine has refined my analytical skills and focus on root cau
 - Strengthening my QA knowledge
 - Expanding my expertise to contribute to projects where precision and quality are crucial
 
+##
+
 Feel free to reach out or connect with me at falom25@hotmail.com!
