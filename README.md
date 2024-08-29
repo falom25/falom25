@@ -1,6 +1,6 @@
 # Hi, I'm Falom 👋🏽🌸
 
-I recently completed a QA Engineer bootcamp at TripleTen, where I developed skills in:
+I recently completed a QA Engineer bootcamp at TripleTen, where I gained hands-on experience in:
 
 - Analyzing requirements and designs
 - Developing test cases and bug reports in Jira
@@ -8,7 +8,7 @@ I recently completed a QA Engineer bootcamp at TripleTen, where I developed skil
 - API testing with Postman
 - Web and mobile testing
 
-My background in medicine has shaped my analytical approach and commitment to uncovering root causes, which I now apply in Quality Assurance to ensure optimal solutions and software reliability.
+My background in medicine has refined my analytical skills and focus on root causes, which I apply in Quality Assurance to ensure robust solutions and software reliability.
 
 ## Skills
 
@@ -22,5 +22,7 @@ My background in medicine has shaped my analytical approach and commitment to un
 
 ## Currently
 
-- Strengthening my knowledge in QA
-- Continuously expanding my expertise to contribute to innovative projects where precision and quality are key
+- Strengthening my QA knowledge
+- Expanding my expertise to contribute to projects where precision and quality are crucial
+
+Feel free to reach out or connect with me at falom25@hotmail.com!
