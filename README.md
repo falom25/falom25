@@ -1,4 +1,4 @@
-# Hi, I'm [Falom] 👋🏽🌸!
+# Hi, I'm Falom 👋🏽🌸
 
 I recently completed a QA Engineer bootcamp at TripleTen, where I developed skills in:
 
@@ -6,22 +6,17 @@ I recently completed a QA Engineer bootcamp at TripleTen, where I developed skil
 - Developing test cases and bug reports in Jira
 - Manual and automated testing
 - API testing with Postman
-- Web and mobile testing with Android Studio
+- Web and mobile testing
 
 My background in medicine has shaped my analytical approach and commitment to uncovering root causes, which I now apply in Quality Assurance to ensure optimal solutions and software reliability.
 
 ## Skills
 
 - Manual and UI Testing
-- Figma
-- HTML
 - Postman
 - PostgreSQL
-- JSON
 - Android Studio
 - Selenium WebDriver
-- Python
-- PyCharm
 - Git/GitHub
 - JIRA
 
