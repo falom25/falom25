@@ -19,10 +19,6 @@ My background has sharpened my analytical skills and attention to detail, which 
 - Strengthening my QA knowledge
 - Expanding my expertise to contribute to projects where precision and quality are crucial
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falom25/)
-![](https://komarev.com/ghpvc/?username=Falom25&color=blueviolet&style=flat-square)
-
+## 
 
 Feel free to reach out or connect with me at falom25@hotmail.com!
